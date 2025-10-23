@@ -1,0 +1,325 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #364153;
+  background: #FDFBF7;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F1F4FB;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a9c5eb;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #338AFF;
+}
+
+/* Glass effect cards */
+.glass-card {
+  background: rgba(169, 197, 235, 0.18);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  border: 1px solid rgba(51, 138, 255, 0.08);
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.glass-card:hover {
+  background: rgba(169, 197, 235, 0.28);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(51, 138, 255, 0.12);
+}
+
+/* Song cards */
+.song-card {
+  background: rgba(169, 197, 235, 0.25);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.song-card:hover {
+  background: rgba(51, 138, 255, 0.18);
+  transform: scale(1.02);
+}
+
+/* Metric cards */
+.metric-card {
+  background: linear-gradient(135deg, #338AFF 0%, #1E6FFF 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Input fields */
+input, select, textarea {
+  border: 2px solid #d5e2fa !important;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  transition: all 0.2s ease;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: #338AFF !important;
+  box-shadow: 0 0 0 3px rgba(51, 138, 255, 0.15);
+}
+
+/* Buttons */
+.btn-primary {
+  background: linear-gradient(135deg, #338AFF 0%, #1E6FFF 100%);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(51, 138, 255, 0.35);
+}
+
+.btn-secondary {
+  background: #a9c5eb;
+  color: #364153;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background: #8db3e6;
+  transform: translateY(-2px);
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-head {
+  text-align: left;
+  padding: 0.85rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #364153;
+  background: #a9c5eb;
+}
+
+.table-cell {
+  padding: 0.85rem;
+  vertical-align: top;
+  color: #364153;
+  font-size: 0.9rem;
+  background: rgba(253, 251, 247, 0.95);
+}
+
+.table-cell:first-child {
+  font-weight: 600;
+}
+
+tbody tr:nth-child(even) .table-cell {
+  background: rgba(169, 197, 235, 0.2);
+}
+
+tbody tr:hover .table-cell {
+  background: rgba(138, 180, 255, 0.25);
+}
+
+/* Loading spinner */
+.spinner {
+  border: 3px solid rgba(169, 197, 235, 0.35);
+  border-top: 3px solid #338AFF;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.btn-spinner {
+  width: 16px;
+  height: 16px;
+  border-radius: 9999px;
+  border: 2px solid rgba(51, 138, 255, 0.25);
+  border-top-color: #338AFF;
+  animation: spin 0.8s linear infinite;
+}
+
+.section-heading {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #364153;
+  margin-bottom: 1rem;
+}
+
+.input-label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #364153;
+  margin-bottom: 0.5rem;
+}
+
+.input-with-icon {
+  position: relative;
+}
+
+.input-with-icon .icon {
+  position: absolute;
+  left: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 1rem;
+  width: 1rem;
+  color: #7b8fb8;
+}
+
+.input-with-icon input,
+.input-with-icon select {
+  padding-left: 2.5rem;
+}
+
+.checkbox-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 9999px;
+  background: rgba(169, 197, 235, 0.45);
+  border: 1px solid rgba(51, 138, 255, 0.25);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.checkbox-pill:hover {
+  background: rgba(51, 138, 255, 0.18);
+}
+
+.checkbox-pill input {
+  width: 1rem;
+  height: 1rem;
+}
+
+.checkbox-card {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(169, 197, 235, 0.7);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.checkbox-card input {
+  width: 1rem;
+  height: 1rem;
+}
+
+.checkbox-card:hover {
+  border-color: #338AFF;
+  transform: translateY(-1px);
+}
+
+.range-slider {
+  width: 100%;
+  appearance: none;
+  height: 6px;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, #338AFF 0%, #a9c5eb 100%);
+  outline: none;
+}
+
+.range-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 3px solid #338AFF;
+  box-shadow: 0 2px 6px rgba(51, 138, 255, 0.3);
+  cursor: pointer;
+}
+
+.range-slider::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 3px solid #338AFF;
+  box-shadow: 0 2px 6px rgba(51, 138, 255, 0.3);
+  cursor: pointer;
+}
+
+.rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #338AFF 0%, #1E6FFF 100%);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.feedback-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: #fff;
+}
+
+.feedback-btn.like {
+  background: linear-gradient(135deg, #22c55e, #15803d);
+}
+
+.feedback-btn.dislike {
+  background: linear-gradient(135deg, #ef4444, #b91c1c);
+}
+
+.feedback-btn.skip {
+  background: linear-gradient(135deg, #f97316, #c2410c);
+}
+
+.feedback-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

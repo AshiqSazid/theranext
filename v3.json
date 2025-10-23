@@ -1,0 +1,1626 @@
+{
+  "patient_info": {
+    "name": "Md. Ashiq Ul Islam Sajid",
+    "age": 43,
+    "birth_year": 1982,
+    "sex": "Male",
+    "birthplace_city": "dhaka",
+    "birthplace_country": "Bangladesh",
+    "instruments": [
+      "Guitar"
+    ],
+    "favorite_genre": "Rock",
+    "favorite_musician": "",
+    "favorite_season": "Spring",
+    "natural_elements": [
+      "Rain"
+    ],
+    "condition": "dementia",
+    "difficulty_sleeping": true,
+    "trouble_remembering": true,
+    "forgets_everyday_things": true,
+    "difficulty_recalling_old_memories": true,
+    "memory_worse_than_year_ago": true,
+    "visited_mental_health_professional": true,
+    "big5_scores": {
+      "extraversion": 4.0,
+      "agreeableness": 4.0,
+      "conscientiousness": 4.0,
+      "neuroticism": 4.0,
+      "openness": 4.0
+    }
+  },
+  "recommendations": {
+    "patient_context": {
+      "birth_year": 1982,
+      "nostalgia_window": "1992-2012",
+      "generational_context": {
+        "birth_year": 1982,
+        "age_group": "Born 1981-1995",
+        "musical_context": "Hip-Hop, EDM, Global Fusion",
+        "therapeutic_ragas": [
+          "Keeravani",
+          "Charukeshi",
+          "Gauri",
+          "Hamsadhwani"
+        ],
+        "focus": "upliftment, attention, optimism, relaxation, mental fatigue"
+      }
+    },
+    "categories": {
+      "birthplace_country": {
+        "query": "",
+        "songs": [],
+        "count": 0,
+        "song_recommendations": ""
+      },
+      "birthplace_city": {
+        "query": "",
+        "songs": [],
+        "count": 0,
+        "song_recommendations": ""
+      },
+      "instruments": {
+        "query": "Guitar song",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "cNO9WRICr8EQkSDewq6SVOaTi9g",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "DTe3HpHlNGo"
+            },
+            "snippet": {
+              "publishedAt": "2024-12-01T05:10:08Z",
+              "channelId": "UCHcvEHlOPR0K94wxY3p05zA",
+              "title": "Ishq by Faheem abdullah | Easy Guitar lessons for beginners",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/DTe3HpHlNGo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/DTe3HpHlNGo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/DTe3HpHlNGo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Vikram singha (Lets begin guitar classes)",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-12-01T05:10:08Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "7IdbqUIWM8GMH_ljsFjeutjUj0Y",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Szqqp47sfcQ"
+            },
+            "snippet": {
+              "publishedAt": "2023-06-04T23:00:12Z",
+              "channelId": "UCD39yCYill6TA9XE2kpbffQ",
+              "title": "Top 50 Beautiful Instrumental Guitar Love Songs - Romantic Melodies for Soulful Peace",
+              "description": "Top 50 Beautiful Instrumental Guitar Love Songs - Romantic Melodies for Soulful Peace ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Szqqp47sfcQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Szqqp47sfcQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Szqqp47sfcQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Timeless Oldies Hits",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-06-04T23:00:12Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "hCwwAiofQf6sWkiRPKDh4lxnkuw",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "ZWA-hM-kKMA"
+            },
+            "snippet": {
+              "publishedAt": "2022-10-20T07:53:49Z",
+              "channelId": "UCgJWzn97QwlIAOdtORP2NOQ",
+              "title": "Kabhi Jo Badal - Single String Guitar Tabs #shorts #guitar #music",
+              "description": "Kabhi Jo Badal - Single String Guitar Tabs #shorts #guitar #music #shortsindia #guitarshorts #shortsfeed #sagarroy ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/ZWA-hM-kKMA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/ZWA-hM-kKMA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/ZWA-hM-kKMA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Acoustic Jam official  ♫",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-20T07:53:49Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "869581uQa28nP9_8jEdkfx-wGjg",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Yy5VHVIREQU"
+            },
+            "snippet": {
+              "publishedAt": "2024-05-02T13:30:15Z",
+              "channelId": "UC8eHXyMWigFNTgw5L-W6iAA",
+              "title": "আমি কত জনরে কতো কি দিলাম  | Andrew Kishore | ডাক দিয়াছেন দয়াল আমারে  | Covered by Ucchash | ",
+              "description": "আমি কত জনরে কতো কি দিলাম | ডাক দিয়াছেন দয়াল আমারে | Covered by Ucchash Lyricist: ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Yy5VHVIREQU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Yy5VHVIREQU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Yy5VHVIREQU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "উচ্ছ্বাস - Ucchash",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-05-02T13:30:15Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "PQhcPPF55mfo_2NZRCbno8Dj-V0",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "fZ42w78LSkA"
+            },
+            "snippet": {
+              "publishedAt": "2025-08-31T13:07:45Z",
+              "channelId": "UCHcvEHlOPR0K94wxY3p05zA",
+              "title": "With 2 chords you can play this song | illahi guitar lesson | Easy song for 1 st day learning",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/fZ42w78LSkA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/fZ42w78LSkA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/fZ42w78LSkA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Vikram singha (Lets begin guitar classes)",
+              "liveBroadcastContent": "none",
+              "publishTime": "2025-08-31T13:07:45Z"
+            }
+          }
+        ],
+        "count": 5
+      },
+      "seasonal": {
+        "query": "Spring relaxing music",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "vKB6onEjOoo87xq8eLda_Kkb7d8",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "6ywydpVSP58"
+            },
+            "snippet": {
+              "publishedAt": "2019-03-10T21:00:43Z",
+              "channelId": "UCb1ANUIW7arUUDI-Mwz65rw",
+              "title": "Morning Relaxing Music - Springtime Music, Study Music, Stress Relief (Ruby)",
+              "description": "Morning Relaxing Music - Springtime Music, Study Music, Stress Relief (Ruby) RACK INFORMATION Title: Ruby Artist: Ocb Relax ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/6ywydpVSP58/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/6ywydpVSP58/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/6ywydpVSP58/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Ocb Relax - Music for Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-03-10T21:00:43Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "xM_b2ItwK6f0_cZq3NiHI4Ts8xo",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "u4pQ7O8uQRw"
+            },
+            "snippet": {
+              "publishedAt": "2021-04-08T08:53:39Z",
+              "channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+              "title": "Spring • Beautiful Relaxing Music with a Flute, Cello, Guitar &amp; Piano",
+              "description": "Beautiful relaxing music with a flute, cello, guitar and piano. This track is called \"Spring\" and it's composed by the Norwegian ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/u4pQ7O8uQRw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/u4pQ7O8uQRw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/u4pQ7O8uQRw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Soothing Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-04-08T08:53:39Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "K4Wgu4XM-nejfPwJWq5DUZdV1J4",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "mdoZdXBpYzU"
+            },
+            "snippet": {
+              "publishedAt": "2023-01-14T06:20:55Z",
+              "channelId": "UCPy-vsBDyrEu3I3DJRUuvyg",
+              "title": "Amazing Colors of Spring 4K Nature Relaxaton Film - Relaxing Piano Music - Natural Landsscape",
+              "description": "Amazing Colors of Spriing 4K Nature Relaxaton Film - Relaxing Piano Music - Natural Landsscape Music to sleep deeply and rest ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/mdoZdXBpYzU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/mdoZdXBpYzU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/mdoZdXBpYzU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Beautiful World 4k",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-01-14T06:20:55Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "0_wiyhyhDHe3cRcsNKdFxbJVGYI",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "8WVXk0Gz66E"
+            },
+            "snippet": {
+              "publishedAt": "2019-02-08T16:45:22Z",
+              "channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+              "title": "10 Hours of Relaxing Music - Calm Piano &amp; Guitar, Sleep Music, Study Music",
+              "description": "10 hours of beautiful relaxing music that can be used as soothing sleep music, meditation music, study music, sleeping music or ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/8WVXk0Gz66E/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/8WVXk0Gz66E/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/8WVXk0Gz66E/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Soothing Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-02-08T16:45:22Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "ybiO8IDEJCFzR4wCoTxOK1pvp_g",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "77ZozI0rw7w"
+            },
+            "snippet": {
+              "publishedAt": "2017-05-20T00:59:38Z",
+              "channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+              "title": "Soothing Relaxation: Relaxing Piano Music &amp; Water Sounds for Sleep, Meditation, Spa &amp; Yoga",
+              "description": "Relaxing piano music (3 hours) with water sounds that can be used as sleep music and meditation music. This music (\"Soothing ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/77ZozI0rw7w/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/77ZozI0rw7w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/77ZozI0rw7w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Soothing Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-05-20T00:59:38Z"
+            }
+          }
+        ],
+        "count": 5
+      },
+      "natural_elements": {
+        "query": "Rain relaxing music",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "yMg2rbopJXbI88OoUU9ol5VGU1M",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "o8GrqUSdzi0"
+            },
+            "snippet": {
+              "publishedAt": "2018-11-01T12:02:37Z",
+              "channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+              "title": "Relaxing Music &amp; Rain Sounds - Beautiful Piano Music, Background Music, Sleep Music • You &amp; Me",
+              "description": "Relaxing music and rain sounds (10 hours) by Soothing Relaxation. Beautiful piano music (\"You & Me\") in a 10 hours long version ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/o8GrqUSdzi0/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/o8GrqUSdzi0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/o8GrqUSdzi0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Soothing Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-11-01T12:02:37Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "60CrIWDjWe_L772dZKsJH5tA-9M",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "cjkFG6bHGNc"
+            },
+            "snippet": {
+              "publishedAt": "2018-08-24T08:22:07Z",
+              "channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+              "title": "No Worries: Soft Rain Sounds with Relaxing Music for Sleep &amp; Meditation",
+              "description": "Relaxing music with soft rain that can be described as sleep music, calm piano music, healing music, peaceful music and relaxing ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/cjkFG6bHGNc/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/cjkFG6bHGNc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/cjkFG6bHGNc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Soothing Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-08-24T08:22:07Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "KuRSZyg3Du0qTM35pTRYqjrBBQ8",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "35AdtzquJYg"
+            },
+            "snippet": {
+              "publishedAt": "2024-05-24T01:30:17Z",
+              "channelId": "UC0vI2alQtaxUMdQM1Re3RZA",
+              "title": "3 Hours Relaxing Sleep Music with Rain Sounds - Peaceful Music in the Warm Bedroom, Stress Relief",
+              "description": "3 Hours Relaxing Sleep Music with Rain Sounds - Peaceful Music in the Warm Bedroom, Stress Relief ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/35AdtzquJYg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/35AdtzquJYg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/35AdtzquJYg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Relaxing Piano Alex Minh Official",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-05-24T01:30:17Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "xW7l8QPYXyG9GgTXfR-5idbV7iM",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "13EL6Mgeocc"
+            },
+            "snippet": {
+              "publishedAt": "2018-02-13T08:20:07Z",
+              "channelId": "UCo5JkRVziPY8hl5VCpukMkQ",
+              "title": "Rain Sound (Pure White Noise for Natural Deep Sleep Inducing)",
+              "description": "Provided to YouTube by The state51 Conspiracy Rain Sound (Pure White Noise for Natural Deep Sleep Inducing) · White Noise ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/13EL6Mgeocc/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/13EL6Mgeocc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/13EL6Mgeocc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "White Noise - Topic",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-02-13T08:20:07Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "dZCy6NKQhSoNttE48sUUrfOPhxc",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "6h69W_Ymu8Q"
+            },
+            "snippet": {
+              "publishedAt": "2020-05-11T08:02:03Z",
+              "channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+              "title": "Calming Piano Music with Rain &amp; Thunder Sounds for Sleep or Relaxing • &quot;Rainy Day&quot;",
+              "description": "Calming music with rain & thunder sounds for sleep or relaxing, by Peder B. Helland. This soft piano music is called \"Rainy Day\".",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/6h69W_Ymu8Q/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/6h69W_Ymu8Q/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/6h69W_Ymu8Q/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Soothing Relaxation",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-05-11T08:02:03Z"
+            }
+          }
+        ],
+        "count": 5
+      },
+      "favorite_genre": {
+        "query": "Rock best songs official",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "JKhagDQr-hSdd-bNjHAv1wLt0W0",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "vx2u5uUu3DE"
+            },
+            "snippet": {
+              "publishedAt": "2009-06-17T00:55:22Z",
+              "channelId": "UCwlTofOAY79PS_GhmborAdA",
+              "title": "Bon Jovi - It&#39;s My Life (Official Music Video)",
+              "description": "New album '2020' out now https://BonJovi.lnk.to/2020-TheAlbum Follow Bon Jovi: Facebook: https://www.facebook.com/BonJovi ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "BonJoviVEVO",
+              "liveBroadcastContent": "none",
+              "publishTime": "2009-06-17T00:55:22Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "YVf9e_Og9dQlKmBJBzuO7BgqUeM",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "GC5E8ie2pdM"
+            },
+            "snippet": {
+              "publishedAt": "2009-03-13T14:15:01Z",
+              "channelId": "UCC0P5j0AuOScF-WNCeY4_VQ",
+              "title": "Tina Turner - The Best (Official Music Video) [HD Upgrade]",
+              "description": "The official music video for Tina Turner – The Best. Taken from Tina Turner's album Foreign Affair from 1989, featuring the singles ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/GC5E8ie2pdM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/GC5E8ie2pdM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/GC5E8ie2pdM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Tina Turner Videos",
+              "liveBroadcastContent": "none",
+              "publishTime": "2009-03-13T14:15:01Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "PXU_3_C55tXRFr_vwfX3J0n4dUU",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "v2AC41dglnM"
+            },
+            "snippet": {
+              "publishedAt": "2012-11-07T15:15:10Z",
+              "channelId": "UCmPuJ2BltKsGE2966jLgCnw",
+              "title": "AC/DC - Thunderstruck (Official Video)",
+              "description": "Official HD Music Video for “Thunderstruck” by AC/DC Listen to AC/DC: https://ACDC.lnk.to/listenYD Win 2 tickets to see AC/DC ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/v2AC41dglnM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/v2AC41dglnM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/v2AC41dglnM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "acdcVEVO",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-11-07T15:15:10Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "ZqshJmFj7XWLMhhcOnRR5ae6uYc",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "_lK4cX5xGiQ"
+            },
+            "snippet": {
+              "publishedAt": "2010-10-20T01:28:16Z",
+              "channelId": "UCl_nrHmP_vhDUT1eqtyjEYQ",
+              "title": "Tenacious D - Tribute (Official Video)",
+              "description": "Official Video for \"Tribute\" by Tenacious D Listen to Tenacious D: https://TenaciousD.lnk.to/listenYD Subscribe to the official ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/_lK4cX5xGiQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/_lK4cX5xGiQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/_lK4cX5xGiQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "tenaciousDVEVO",
+              "liveBroadcastContent": "none",
+              "publishTime": "2010-10-20T01:28:16Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "xpLFB3TO3kJjBVXtA2UeJpcSmto",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "0DQup4hd1_o"
+            },
+            "snippet": {
+              "publishedAt": "2010-11-15T22:18:32Z",
+              "channelId": "UCjwhEPNX5rsU6gl_8qZMQZg",
+              "title": "Kid Rock - Only God Knows Why [Official Music Video]",
+              "description": "Watch the official music video for Only God Knows Why by Kid Rock from the album Devil Without a Cause. Subscribe to the ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/0DQup4hd1_o/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/0DQup4hd1_o/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/0DQup4hd1_o/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Kid Rock",
+              "liveBroadcastContent": "none",
+              "publishTime": "2010-11-15T22:18:32Z"
+            }
+          }
+        ],
+        "count": 5
+      },
+      "difficulty_sleeping": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "K6AV9sn6n-2XPHitLht2P0XbnVY",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "7gphiFVVtUI"
+            },
+            "snippet": {
+              "publishedAt": "2012-02-29T14:23:25Z",
+              "channelId": "UCuxEneTuPW7qKee_3slXEmQ",
+              "title": "Estas Tonne - The Song of the Golden Dragon",
+              "description": "https://estastonne.com/ Tour Dates on his website https://estastonne.com/tour-dates/ About a video that is connected to the Dragon ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "LiebensteinMovies",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-02-29T14:23:25Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "KaenkepqGWdt0ZSjBFAvhKxPueE",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "I2cmgH60J0Y"
+            },
+            "snippet": {
+              "publishedAt": "2023-09-01T11:26:48Z",
+              "channelId": "UCTsnTp-g5Rj3VY7Tlm2XQ6A",
+              "title": "Estas Tonne - Fusion (Live) (Radio Edit)",
+              "description": "This piece excerpted from a 2.5-hour continuous sound journey at The Hall (Live in Zurich 2022) initially released as a 30-minute ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Estas Tonne",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-01T11:26:48Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "RLEjo2I7d9OI5X09K_c3mtYSU7M",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "YUuSdrCojPE"
+            },
+            "snippet": {
+              "publishedAt": "2023-04-20T11:06:08Z",
+              "channelId": "UCNaRPxzjY-MdDYmbkkL9ApQ",
+              "title": "Estas Tonne - Fusion (Internal Flight variation) Live in Zurich, 2022",
+              "description": "Estas Tonne Soundtrack: Fusion (Internal Flight variation) Live in Zurich, 2022 Recorded live November 8th 2022 at The Hall ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Universal Sounds Switzerland",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-04-20T11:06:08Z"
+            }
+          }
+        ],
+        "count": 3,
+        "condition": "difficulty_sleeping"
+      },
+      "trouble_remembering": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "K6AV9sn6n-2XPHitLht2P0XbnVY",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "7gphiFVVtUI"
+            },
+            "snippet": {
+              "publishedAt": "2012-02-29T14:23:25Z",
+              "channelId": "UCuxEneTuPW7qKee_3slXEmQ",
+              "title": "Estas Tonne - The Song of the Golden Dragon",
+              "description": "https://estastonne.com/ Tour Dates on his website https://estastonne.com/tour-dates/ About a video that is connected to the Dragon ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "LiebensteinMovies",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-02-29T14:23:25Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "KaenkepqGWdt0ZSjBFAvhKxPueE",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "I2cmgH60J0Y"
+            },
+            "snippet": {
+              "publishedAt": "2023-09-01T11:26:48Z",
+              "channelId": "UCTsnTp-g5Rj3VY7Tlm2XQ6A",
+              "title": "Estas Tonne - Fusion (Live) (Radio Edit)",
+              "description": "This piece excerpted from a 2.5-hour continuous sound journey at The Hall (Live in Zurich 2022) initially released as a 30-minute ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Estas Tonne",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-01T11:26:48Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "RLEjo2I7d9OI5X09K_c3mtYSU7M",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "YUuSdrCojPE"
+            },
+            "snippet": {
+              "publishedAt": "2023-04-20T11:06:08Z",
+              "channelId": "UCNaRPxzjY-MdDYmbkkL9ApQ",
+              "title": "Estas Tonne - Fusion (Internal Flight variation) Live in Zurich, 2022",
+              "description": "Estas Tonne Soundtrack: Fusion (Internal Flight variation) Live in Zurich, 2022 Recorded live November 8th 2022 at The Hall ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Universal Sounds Switzerland",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-04-20T11:06:08Z"
+            }
+          }
+        ],
+        "count": 3,
+        "condition": "trouble_remembering"
+      },
+      "forgets_everyday_things": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "K6AV9sn6n-2XPHitLht2P0XbnVY",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "7gphiFVVtUI"
+            },
+            "snippet": {
+              "publishedAt": "2012-02-29T14:23:25Z",
+              "channelId": "UCuxEneTuPW7qKee_3slXEmQ",
+              "title": "Estas Tonne - The Song of the Golden Dragon",
+              "description": "https://estastonne.com/ Tour Dates on his website https://estastonne.com/tour-dates/ About a video that is connected to the Dragon ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "LiebensteinMovies",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-02-29T14:23:25Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "KaenkepqGWdt0ZSjBFAvhKxPueE",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "I2cmgH60J0Y"
+            },
+            "snippet": {
+              "publishedAt": "2023-09-01T11:26:48Z",
+              "channelId": "UCTsnTp-g5Rj3VY7Tlm2XQ6A",
+              "title": "Estas Tonne - Fusion (Live) (Radio Edit)",
+              "description": "This piece excerpted from a 2.5-hour continuous sound journey at The Hall (Live in Zurich 2022) initially released as a 30-minute ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Estas Tonne",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-01T11:26:48Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "RLEjo2I7d9OI5X09K_c3mtYSU7M",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "YUuSdrCojPE"
+            },
+            "snippet": {
+              "publishedAt": "2023-04-20T11:06:08Z",
+              "channelId": "UCNaRPxzjY-MdDYmbkkL9ApQ",
+              "title": "Estas Tonne - Fusion (Internal Flight variation) Live in Zurich, 2022",
+              "description": "Estas Tonne Soundtrack: Fusion (Internal Flight variation) Live in Zurich, 2022 Recorded live November 8th 2022 at The Hall ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Universal Sounds Switzerland",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-04-20T11:06:08Z"
+            }
+          }
+        ],
+        "count": 3,
+        "condition": "forgets_everyday_things"
+      },
+      "difficulty_recalling_old_memories": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "K6AV9sn6n-2XPHitLht2P0XbnVY",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "7gphiFVVtUI"
+            },
+            "snippet": {
+              "publishedAt": "2012-02-29T14:23:25Z",
+              "channelId": "UCuxEneTuPW7qKee_3slXEmQ",
+              "title": "Estas Tonne - The Song of the Golden Dragon",
+              "description": "https://estastonne.com/ Tour Dates on his website https://estastonne.com/tour-dates/ About a video that is connected to the Dragon ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "LiebensteinMovies",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-02-29T14:23:25Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "KaenkepqGWdt0ZSjBFAvhKxPueE",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "I2cmgH60J0Y"
+            },
+            "snippet": {
+              "publishedAt": "2023-09-01T11:26:48Z",
+              "channelId": "UCTsnTp-g5Rj3VY7Tlm2XQ6A",
+              "title": "Estas Tonne - Fusion (Live) (Radio Edit)",
+              "description": "This piece excerpted from a 2.5-hour continuous sound journey at The Hall (Live in Zurich 2022) initially released as a 30-minute ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Estas Tonne",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-01T11:26:48Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "RLEjo2I7d9OI5X09K_c3mtYSU7M",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "YUuSdrCojPE"
+            },
+            "snippet": {
+              "publishedAt": "2023-04-20T11:06:08Z",
+              "channelId": "UCNaRPxzjY-MdDYmbkkL9ApQ",
+              "title": "Estas Tonne - Fusion (Internal Flight variation) Live in Zurich, 2022",
+              "description": "Estas Tonne Soundtrack: Fusion (Internal Flight variation) Live in Zurich, 2022 Recorded live November 8th 2022 at The Hall ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Universal Sounds Switzerland",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-04-20T11:06:08Z"
+            }
+          }
+        ],
+        "count": 3,
+        "condition": "difficulty_recalling_old_memories"
+      },
+      "memory_worse_than_year_ago": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "K6AV9sn6n-2XPHitLht2P0XbnVY",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "7gphiFVVtUI"
+            },
+            "snippet": {
+              "publishedAt": "2012-02-29T14:23:25Z",
+              "channelId": "UCuxEneTuPW7qKee_3slXEmQ",
+              "title": "Estas Tonne - The Song of the Golden Dragon",
+              "description": "https://estastonne.com/ Tour Dates on his website https://estastonne.com/tour-dates/ About a video that is connected to the Dragon ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/7gphiFVVtUI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "LiebensteinMovies",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-02-29T14:23:25Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "KaenkepqGWdt0ZSjBFAvhKxPueE",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "I2cmgH60J0Y"
+            },
+            "snippet": {
+              "publishedAt": "2023-09-01T11:26:48Z",
+              "channelId": "UCTsnTp-g5Rj3VY7Tlm2XQ6A",
+              "title": "Estas Tonne - Fusion (Live) (Radio Edit)",
+              "description": "This piece excerpted from a 2.5-hour continuous sound journey at The Hall (Live in Zurich 2022) initially released as a 30-minute ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/I2cmgH60J0Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Estas Tonne",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-01T11:26:48Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "RLEjo2I7d9OI5X09K_c3mtYSU7M",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "YUuSdrCojPE"
+            },
+            "snippet": {
+              "publishedAt": "2023-04-20T11:06:08Z",
+              "channelId": "UCNaRPxzjY-MdDYmbkkL9ApQ",
+              "title": "Estas Tonne - Fusion (Internal Flight variation) Live in Zurich, 2022",
+              "description": "Estas Tonne Soundtrack: Fusion (Internal Flight variation) Live in Zurich, 2022 Recorded live November 8th 2022 at The Hall ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/YUuSdrCojPE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Universal Sounds Switzerland",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-04-20T11:06:08Z"
+            }
+          }
+        ],
+        "count": 3,
+        "condition": "memory_worse_than_year_ago"
+      },
+      "visited_mental_health_professional": {
+        "query": "relax saxophone",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "D3mJaaBV01y0_K5FOuPEzaBTN70",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "1qX-0pjxQHI"
+            },
+            "snippet": {
+              "publishedAt": "2015-10-12T05:09:52Z",
+              "channelId": "UCb_kshGodseYhLPcDtxWv5w",
+              "title": "Romantic Relaxing Saxophone Music. Relaxing Music for Stress Relief",
+              "description": "Meditation Relax Music Channel presents Smooth saxophone instrumental & piano music: Romantic Relaxing Saxophone Music.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/1qX-0pjxQHI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/1qX-0pjxQHI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/1qX-0pjxQHI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Meditation Relax Music",
+              "liveBroadcastContent": "none",
+              "publishTime": "2015-10-12T05:09:52Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "1-82OLXLlIopL__0J7GcXlaocII",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "U3n31M81RpE"
+            },
+            "snippet": {
+              "publishedAt": "2024-04-05T16:18:57Z",
+              "channelId": "UCNJFXYXkXt_P8bJUxb21MpA",
+              "title": "Smooth Jazz Saxophone Music - Cool Cafe Vibes • Relaxing Saxophone Instrumental for Dinner &amp; Chill",
+              "description": "Welcome to the Dr. SaxLove channel, where we deliver the ultimate experience in smooth jazz saxophone music, designed to ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/U3n31M81RpE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/U3n31M81RpE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/U3n31M81RpE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Dr.SaxLove",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-04-05T16:18:57Z"
+            }
+          }
+        ],
+        "count": 2,
+        "condition": "visited_mental_health_professional"
+      },
+      "big5_scores_songs": {
+        "query": "Alternative song.",
+        "songs": [
+          {
+            "kind": "youtube#searchResult",
+            "etag": "HJlbjVOH9TYPUHgsNLnC8VwLqwI",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "kPBzTxZQG5Q"
+            },
+            "snippet": {
+              "publishedAt": "2009-10-05T13:11:27Z",
+              "channelId": "UCRxxOhTdsfA0hdvDG9Tb0HA",
+              "title": "3 Doors Down - Here Without You (Official Music Video)",
+              "description": "REMASTERED IN HD! Music video by 3 Doors Down performing Here Without You. (C) 2002 Universal Records, a Division of ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/kPBzTxZQG5Q/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/kPBzTxZQG5Q/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/kPBzTxZQG5Q/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "3DoorsDownVEVO",
+              "liveBroadcastContent": "none",
+              "publishTime": "2009-10-05T13:11:27Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "fuHbHzMRjUA0NEOzBQMfjXGjkXA",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "nsQ188AxD7U"
+            },
+            "snippet": {
+              "publishedAt": "2025-06-20T15:01:36Z",
+              "channelId": "UC2FfTIgqCzCoZ1Gu2pfrb9Q",
+              "title": "Best of Alternative Rock 90s &amp; 2000s (Red Hot Chili Peppers, Evanescence, Keane, Oasis, The Killers)",
+              "description": "alternativerock #rock2000s #rock90s Hola, perdon por la ausencia. Ya recordé mi contraseña El canal estuvo 3 meses ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/nsQ188AxD7U/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/nsQ188AxD7U/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/nsQ188AxD7U/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Albert CT",
+              "liveBroadcastContent": "none",
+              "publishTime": "2025-06-20T15:01:36Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "M5k7SBVtS49CJ0hGxnpIprU0tqY",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "gSpgUZVUjmo"
+            },
+            "snippet": {
+              "publishedAt": "2025-05-12T22:00:50Z",
+              "channelId": "UCaXlLPTipYy1nO_EmjTzzjg",
+              "title": "Creed, Linkin Park, Metallica, Nickelback, Green Day, Coldplay💕Alternative Rock Greatest Hits 2000&#39;s",
+              "description": "Creed, Linkin Park, Metallica, Nickelback, Green Day, Coldplay  Alternative Rock Greatest Hits 2000's ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/gSpgUZVUjmo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/gSpgUZVUjmo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/gSpgUZVUjmo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "Disco Mixtape",
+              "liveBroadcastContent": "none",
+              "publishTime": "2025-05-12T22:00:50Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "MmrBTWGFHmPbCD0UrKNzfuLQTVY",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "Sfv6OmOB1W4"
+            },
+            "snippet": {
+              "publishedAt": "2025-06-06T15:00:57Z",
+              "channelId": "UCfm_96AHVcpG1T7sYxl--JA",
+              "title": "ANDROMEDA - MONTAGEM COMA",
+              "description": "MONTAGEM COMA 2.0: https://youtu.be/BQ0ZFUN43wU discover more: https://linktr.ee/elysianrecords download/stream: ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Sfv6OmOB1W4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Sfv6OmOB1W4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Sfv6OmOB1W4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "elysian.",
+              "liveBroadcastContent": "none",
+              "publishTime": "2025-06-06T15:00:57Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "f_OXIo_yeBg0TD_PX1fbfLprScw",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "17BJB1c2aEE"
+            },
+            "snippet": {
+              "publishedAt": "2024-10-10T20:55:43Z",
+              "channelId": "UC04BY9XdbTltt3PYOaGGMkA",
+              "title": "Top 5 phonk / Funk songs",
+              "description": "Majed names the top 5 phonk / funk songs of September.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/17BJB1c2aEE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/17BJB1c2aEE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/17BJB1c2aEE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "TheonlyMajed",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-10-10T20:55:43Z"
+            }
+          },
+          {
+            "kind": "youtube#searchResult",
+            "etag": "HNff4KjojQPcEfs4wbHiy7eLu0w",
+            "id": {
+              "kind": "youtube#video",
+              "videoId": "jvy9nyjsHzo"
+            },
+            "snippet": {
+              "publishedAt": "2025-10-18T13:46:40Z",
+              "channelId": "UCfJNmhaMLZ6NRbXlzz1qMLQ",
+              "title": "AURA = ♾️ | 1 HOUR VIRAL AURA MUSIC PLAYLIST 2025 🔥 TRENDING PHONK HITS",
+              "description": "AURA = ♾️ | 1 HOUR VIRAL AURA MUSIC PLAYLIST 2025 TRENDING PHONK HITS WELCOME TO EMPIRE PHONK ...",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/jvy9nyjsHzo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/jvy9nyjsHzo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/jvy9nyjsHzo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
+              "channelTitle": "EMPIRE PHONK",
+              "liveBroadcastContent": "none",
+              "publishTime": "2025-10-18T13:46:40Z"
+            }
+          }
+        ],
+        "count": 6,
+        "personality_genres": [
+          "Alternative",
+          "Funk",
+          "Emo",
+          "Disco",
+          "Progressive Rock"
+        ]
+      }
+    },
+    "total_songs": 43,
+    "method": "dementia_therapy_v2.1",
+    "generated_at": "2025-10-20T13:12:05.245041",
+    "bandit_stats": {
+      "n_interactions": 0,
+      "avg_reward": 0.0,
+      "exploration_rate": 0.3
+    },
+    "session_id": "therapy_20251020131135",
+    "patient_id": "patient_20251020131135",
+    "condition": "dementia"
+  },
+  "big5_scores": {
+    "extraversion": 4.0,
+    "agreeableness": 4.0,
+    "conscientiousness": 4.0,
+    "neuroticism": 4.0,
+    "openness": 4.0
+  },
+  "export_timestamp": "2025-10-20T13:12:06.180272",
+  "export_version": "TheraMuse v9.0"
+}

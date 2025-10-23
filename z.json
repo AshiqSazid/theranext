@@ -1,0 +1,422 @@
+{
+  "patient_info": {
+    "name": "Md. Ashiq Ul Islam Sajid",
+    "age": 65,
+    "birth_year": 1960,
+    "sex": "Male",
+    "birthplace_city": "dhaka",
+    "birthplace_country": "Bangladesh",
+    "instruments": [
+      "Guitar"
+    ],
+    "favorite_genre": "Rock",
+    "favorite_musician": "opeth",
+    "favorite_season": "Spring",
+    "natural_elements": [
+      "Rain"
+    ],
+    "condition": "dementia",
+    "difficulty_sleeping": true,
+    "trouble_remembering": true,
+    "forgets_everyday_things": true,
+    "difficulty_recalling_old_memories": true,
+    "memory_worse_than_year_ago": true,
+    "visited_mental_health_professional": true,
+    "big5_scores": {
+      "extraversion": 4.0,
+      "agreeableness": 4.0,
+      "conscientiousness": 4.0,
+      "neuroticism": 4.0,
+      "openness": 4.0
+    }
+  },
+  "recommendations": {
+    "patient_context": {
+      "birth_year": 1960,
+      "nostalgia_window": "1970-1990",
+      "generational_context": {
+        "birth_year": 1960,
+        "age_group": "Born 1956-1965",
+        "musical_context": "Band Revolution, Folk-Pop Fusion",
+        "therapeutic_ragas": [
+          "Kafi",
+          "Pahadi",
+          "Bhairavi"
+        ],
+        "focus": "peace, tranquility, holistic healing, emotional balance"
+      }
+    },
+    "categories": {
+      "birthplace_country": {
+        "query": "Bangladesh Rock music 1970-1990",
+        "songs": [
+          {
+            "title": "Best Of Miles Bangla Song Official Audio",
+            "url": "https://www.youtube.com/watch?v=xVRZhL65yG0"
+          },
+          {
+            "title": "Averse - Hey [OFFICIAL VIDEO] | Bangladesh Heavy Metal/Thrash Metal |",
+            "url": "https://www.youtube.com/watch?v=URT7m-fJZ5Q"
+          },
+          {
+            "title": "Bangladeshi band rocks out music piracy",
+            "url": "https://www.youtube.com/watch?v=rNh-QgSoC3o"
+          },
+          {
+            "title": "Famous Singer of Bangladesh band Respected Hasan vai (Ark)",
+            "url": "https://www.youtube.com/watch?v=hSU9nVKYDng"
+          },
+          {
+            "title": "JAY ROCK FOSSILS BAND| RUPAM ISLAM| #fossils #rupamislam #band #banglaband #jayrock",
+            "url": "https://www.youtube.com/watch?v=sOQ1V-k23gY"
+          }
+        ],
+        "count": 5,
+        "song_recommendations": "birthplace country song recommendation=Bangladesh Rock music 1970-1990",
+        "favorite_genre_song_recommendations": "favourite genre 1=Bangladesh Rock music 1970-1990"
+      },
+      "birthplace_city": {
+        "query": [
+          "dhaka Rock songs 1970-1990",
+          "dhaka Rock songs"
+        ],
+        "songs": [
+          {
+            "title": "Dhaka in 70s | A Flashback",
+            "url": "https://www.youtube.com/watch?v=ORXtUcD0jHg"
+          },
+          {
+            "title": "Ohona | অহনা  | Subconscious | Banglalink Presents Dhaka Rock Fest 3.0",
+            "url": "https://www.youtube.com/watch?v=7ysJiU9PDM4"
+          },
+          {
+            "title": "Shada Ghora | সাদা ঘোড়া | Subconscious | Banglalink Presents Dhaka Rock Fest 3.0",
+            "url": "https://www.youtube.com/watch?v=T06o76mdTZM"
+          },
+          {
+            "title": "SHEI TUMI - AYUB BACHCHU with TAPOSH : WIND OF CHANGE [ PRE-SEASON ] at GAAN BANGLA TV",
+            "url": "https://www.youtube.com/watch?v=04FxMouVtic"
+          },
+          {
+            "title": "Fagunero Mohonay ( Rock Version ) ft. Krakers | Tribute To Bhoomi | Folk Studio Bangla Song 2019",
+            "url": "https://www.youtube.com/watch?v=KuwRk8tlZus"
+          }
+        ],
+        "count": 5,
+        "song_recommendations": [
+          "birthplace city song recommendation=dhaka Rock songs 1970-1990",
+          "birthplace city song recommendation=dhaka Rock songs"
+        ]
+      },
+      "instruments": {
+        "query": "",
+        "songs": [],
+        "count": 0
+      },
+      "seasonal": {
+        "query": "Spring relaxing music",
+        "songs": [],
+        "count": 0
+      },
+      "natural_elements": {
+        "query": "Rain relaxing music",
+        "songs": [],
+        "count": 0
+      },
+      "favorite_genre": {
+        "query": "Rock best songs official",
+        "songs": [],
+        "count": 0
+      },
+      "favorite_musician": {
+        "query": "Opeth best songs official",
+        "songs": [],
+        "count": 0
+      },
+      "difficulty_sleeping": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "title": "Therapeutic Music for Difficulty Sleeping",
+            "url": "https://www.youtube.com/results?search_query=estas+tonne+song",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty sleeping. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Sleeping",
+            "url": "https://www.youtube.com/results?search_query=432+hz+music",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty sleeping. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Sleeping",
+            "url": "https://www.youtube.com/results?search_query=hypnosis+music",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty sleeping. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Sleeping",
+            "url": "https://www.youtube.com/results?search_query=829+hz+music",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty sleeping. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Sleeping",
+            "url": "https://www.youtube.com/results?search_query=Pere+Andre+Farah",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty sleeping. Click to explore more options.",
+            "fallback": true
+          }
+        ],
+        "count": 5,
+        "condition": "difficulty_sleeping"
+      },
+      "trouble_remembering": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "title": "Therapeutic Music for Trouble Remembering",
+            "url": "https://www.youtube.com/results?search_query=estas+tonne+song",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for trouble remembering. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Trouble Remembering",
+            "url": "https://www.youtube.com/results?search_query=Classical+Music+to+Make+Your+Brain+Shut+Up",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for trouble remembering. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Trouble Remembering",
+            "url": "https://www.youtube.com/results?search_query=829+hz+music",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for trouble remembering. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Trouble Remembering",
+            "url": "https://www.youtube.com/results?search_query=Khruangbin",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for trouble remembering. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Trouble Remembering",
+            "url": "https://www.youtube.com/results?search_query=Hermanos+Gutiérrez",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for trouble remembering. Click to explore more options.",
+            "fallback": true
+          }
+        ],
+        "count": 5,
+        "condition": "trouble_remembering"
+      },
+      "forgets_everyday_things": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "title": "Therapeutic Music for Forgets Everyday Things",
+            "url": "https://www.youtube.com/results?search_query=estas+tonne+song",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for forgets everyday things. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Forgets Everyday Things",
+            "url": "https://www.youtube.com/results?search_query=Classical+Music+to+Make+Your+Brain+Shut+Up",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for forgets everyday things. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Forgets Everyday Things",
+            "url": "https://www.youtube.com/results?search_query=829+hz+music",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for forgets everyday things. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Forgets Everyday Things",
+            "url": "https://www.youtube.com/results?search_query=Khruangbin",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for forgets everyday things. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Forgets Everyday Things",
+            "url": "https://www.youtube.com/results?search_query=Hermanos+Gutiérrez",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for forgets everyday things. Click to explore more options.",
+            "fallback": true
+          }
+        ],
+        "count": 5,
+        "condition": "forgets_everyday_things"
+      },
+      "difficulty_recalling_old_memories": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "title": "Therapeutic Music for Difficulty Recalling Old Memories",
+            "url": "https://www.youtube.com/results?search_query=estas+tonne+song",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty recalling old memories. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Recalling Old Memories",
+            "url": "https://www.youtube.com/results?search_query=Classical+Music+to+Make+Your+Brain+Shut+Up",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty recalling old memories. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Recalling Old Memories",
+            "url": "https://www.youtube.com/results?search_query=829+hz+music",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty recalling old memories. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Recalling Old Memories",
+            "url": "https://www.youtube.com/results?search_query=Khruangbin",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty recalling old memories. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Difficulty Recalling Old Memories",
+            "url": "https://www.youtube.com/results?search_query=Hermanos+Gutiérrez",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for difficulty recalling old memories. Click to explore more options.",
+            "fallback": true
+          }
+        ],
+        "count": 5,
+        "condition": "difficulty_recalling_old_memories"
+      },
+      "memory_worse_than_year_ago": {
+        "query": "estas tonne song",
+        "songs": [
+          {
+            "title": "Therapeutic Music for Memory Worse Than Year Ago",
+            "url": "https://www.youtube.com/results?search_query=estas+tonne+song",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for memory worse than year ago. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Memory Worse Than Year Ago",
+            "url": "https://www.youtube.com/results?search_query=Classical+Music+to+Make+Your+Brain+Shut+Up",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for memory worse than year ago. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Memory Worse Than Year Ago",
+            "url": "https://www.youtube.com/results?search_query=829+hz+music",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for memory worse than year ago. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Memory Worse Than Year Ago",
+            "url": "https://www.youtube.com/results?search_query=Khruangbin",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for memory worse than year ago. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Memory Worse Than Year Ago",
+            "url": "https://www.youtube.com/results?search_query=Hermanos+Gutiérrez",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for memory worse than year ago. Click to explore more options.",
+            "fallback": true
+          }
+        ],
+        "count": 5,
+        "condition": "memory_worse_than_year_ago"
+      },
+      "visited_mental_health_professional": {
+        "query": "relax saxophone",
+        "songs": [
+          {
+            "title": "Therapeutic Music for Visited Mental Health Professional",
+            "url": "https://www.youtube.com/results?search_query=relax+saxophone",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for visited mental health professional. Click to explore more options.",
+            "fallback": true
+          },
+          {
+            "title": "Therapeutic Music for Visited Mental Health Professional",
+            "url": "https://www.youtube.com/results?search_query=Khruangbin",
+            "channel": "TheraMuse",
+            "description": "Recommended therapeutic music for visited mental health professional. Click to explore more options.",
+            "fallback": true
+          }
+        ],
+        "count": 2,
+        "condition": "visited_mental_health_professional"
+      },
+      "big5_scores_songs": {
+        "query": "Smooth Jazz song.",
+        "songs": [
+          {
+            "url": "https://www.youtube.com/results?search_query=smooth+jazz+song",
+            "title": "Smooth Jazz Music for Md. Ashiq Ul Islam Sajid - Relaxing Melody"
+          },
+          {
+            "url": "https://www.youtube.com/results?search_query=soul+song",
+            "title": "Soul Music for Md. Ashiq Ul Islam Sajid - Relaxing Melody"
+          },
+          {
+            "url": "https://www.youtube.com/results?search_query=alternative+song",
+            "title": "Alternative Music for Md. Ashiq Ul Islam Sajid - Relaxing Melody"
+          },
+          {
+            "url": "https://www.youtube.com/results?search_query=soft+alternative+song",
+            "title": "Soft Alternative Music for Md. Ashiq Ul Islam Sajid - Relaxing Melody"
+          },
+          {
+            "url": "https://www.youtube.com/results?search_query=disco+song",
+            "title": "Disco Music for Md. Ashiq Ul Islam Sajid - Relaxing Melody"
+          }
+        ],
+        "count": 5,
+        "personality_genres": [
+          "Smooth Jazz",
+          "Soul",
+          "Alternative",
+          "Soft Alternative",
+          "Disco"
+        ]
+      }
+    },
+    "total_songs": 42,
+    "method": "dementia_therapy_v2.1",
+    "generated_at": "2025-10-20T06:03:05.078356",
+    "bandit_stats": {
+      "n_interactions": 0,
+      "avg_reward": 0.0,
+      "exploration_rate": 0.3
+    },
+    "session_id": "therapy_20251020060107",
+    "patient_id": "patient_20251020060107",
+    "condition": "dementia"
+  },
+  "big5_scores": {
+    "extraversion": 4.0,
+    "agreeableness": 4.0,
+    "conscientiousness": 4.0,
+    "neuroticism": 4.0,
+    "openness": 4.0
+  },
+  "export_timestamp": "2025-10-20T06:03:05.440011",
+  "export_version": "TheraMuse v9.0"
+}

@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+python-docx
+pathlib
+typing-extensions
+requests
+numpy
+scikit-learn
+fpdf

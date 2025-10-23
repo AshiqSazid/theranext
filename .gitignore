@@ -1,27 +1,11 @@
-# Node
 node_modules/
 .next/
 dist/
-npm-debug.log*
-
-# Environment
 .env
-.env.local
-
-# Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.db
 *.pkl
-
-# Build/Output
-out/
-coverage/
-*.log
-
-# System/Editor
+*.db
 .DS_Store
 .vscode/
 .idea/
